@@ -91,6 +91,7 @@ nav a:hover{
     width: 350px;
     height: 220px;
     transition: 0.2s;
+    border-radius: 3px
 }
 
 .img-bg:hover{
@@ -103,6 +104,7 @@ nav a:hover{
     width: 345px;
     height: 215px;
     filter: blur(1.5px);
+    border-radius: 5px;
 }
 .img-bg:hover a{
     color: #fff;
